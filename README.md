@@ -12,7 +12,7 @@ This dashboard provides insights into employee attrition based on **department, 
 
 Add your dashboard screenshot here.
 
-![HR Analytics Dashboard](dashboard.png)
+![HR Analytics Dashboard](HR_Analytics.png)
 
 ---
 
@@ -99,14 +99,14 @@ Single employees have the highest attrition.
 
 HR-Analytics-Dashboard
 │
-├── data
-│   └── HR_Employee_Data.csv
+├── Data
+│   └── HR_Analytics .csv
 │
-├── dashboard
+├── Dashboard
 │   └── HR_Analytics.pbix
 │
 ├── images
-│   └── dashboard.png
+│   └── HR_Analytics.png
 │
 └── README.md
 
@@ -129,10 +129,3 @@ HR-Analytics-Dashboard
 * Add more interactive filters and drill-down insights
 
 ---
-
-## 👤 Author
-
-**Your Name**
-
-GitHub: https://github.com/yourusername
-LinkedIn: https://linkedin.com/in/yourprofile
