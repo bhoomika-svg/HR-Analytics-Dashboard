@@ -10,9 +10,10 @@ This dashboard provides insights into employee attrition based on **department, 
 
 ## 📷 Dashboard Preview
 
-Add your dashboard screenshot here.
+![HR Analytics Dashboard](Image/HR_Analytics.png)
 
-![HR Analytics Dashboard](HR_Analytics.png)
+This dashboard visualizes employee attrition patterns across departments,
+age groups, education fields, and job satisfaction levels.
 
 ---
 
